@@ -1,10 +1,8 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
-
-<h3>AIM:</h3>
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
+<h3>ENTER YOUR NAME : Meiyarasi V</h3>
+<h3>ENTER YOUR REGISTER NO : 212221230058 </h3>
+<h3>EX. NO : 02 </h3>
+<h3>DATE : 02.04.2024 </h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
 ii. Matrix summation with a 2D grid and 2D blocks. Adapt it to integer matrix addition. Find the best execution configuration. </h3>
@@ -15,10 +13,6 @@ To perform  matrix summation with a 2D grid and 2D blocks and adapting it to int
 ## EQUIPMENTS REQUIRED:
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
 Google Colab with NVCC Compiler
-
-
-
-
 ## PROCEDURE:
 
 1.	Initialize the data: Generate random data for two input arrays using the initialData function.
